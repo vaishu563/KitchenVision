@@ -1,0 +1,7 @@
+
+streamlit>=1.20
+Pillow>=9.0
+python-dotenv>=1.0
+openai>=0.27.0
+typing-extensions
+requests>=2.28
